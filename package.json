@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-fakeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/tiago-cunha/nodejs-fakeapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
